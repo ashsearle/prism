@@ -9,7 +9,8 @@
 &= |=
 * **
 *= **=
-? / ~ ^ %
+? :
+/ ~ ^ %
 /= ^= %=
 ...
 
@@ -27,7 +28,8 @@
 	["operator", "&="], ["operator", "|="],
 	["operator", "*"], ["operator", "**"],
 	["operator", "*="], ["operator", "**="],
-	["operator", "?"], ["operator", "/"], ["operator", "~"], ["operator", "^"], ["operator", "%"],
+	["punctuation", "?"], ["punctuation", ":"],
+	["operator", "/"], ["operator", "~"], ["operator", "^"], ["operator", "%"],
 	["operator", "/="], ["operator", "^="], ["operator", "%="],
 	["operator", "..."]
 ]
